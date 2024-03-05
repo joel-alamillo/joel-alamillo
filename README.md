@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html5, & css.
 - 💞️ I’m looking to collaborate on musical projects using AI to create spanish voices
 - 📫 How to reach me: alamillojuarez@gmail.com
-- Visita my website wwww.playinghymns.com
+- Visita my website www.playinghymns.com
 
 <!---
 joel-alamillo/joel-alamillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
